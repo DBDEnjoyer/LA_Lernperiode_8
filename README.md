@@ -9,3 +9,6 @@ Heute werde ich weiter an Modul 450 arbeiten, indem ich mich zunächst auf die I
 
 ## 24.1.25
 Heute habe ich an mehreren Abgaben für das Modul 114 gearbeitet. Zunächst habe ich mich mit der Aufgabe zur Huffman-Kodierung beschäftigt und die grundlegenden Konzepte zur Datenkompression angewendet. Anschließend habe ich an der Anwendung der Komprimierung gearbeitet, indem ich verschiedene Algorithmen getestet und ihre Effizienz verglichen habe. Zum Abschluss habe ich mich mit der Qualitätsbewertung der Komprimierung auseinandergesetzt und analysiert, wie sich unterschiedliche Methoden auf die Datenqualität auswirken. Nachdem ich die Implementierung abgeschlossen hatte, habe ich meine Ergebnisse mit der Gruppe angeschaut, um mögliche Fehler zu identifizieren.
+- [x] Auftrag Huffman-Kodierung
+- [x] Auftrag Komprimierung
+- [x] Auftrag Datenqualität
