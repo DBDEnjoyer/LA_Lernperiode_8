@@ -18,6 +18,9 @@ Heute habe ich an mehreren Abgaben für das Modul 114 gearbeitet. Zunächst habe
 
 DSL: 31.01.25
 
-Heute werde ich mich mit der Präsentation zum Auftrag Steganografie beschäftigen. Zunächst werde ich die Inhalte sorgfältig durchlesen, um ein klares Verständnis der Aufgabenstellung zu bekommen. Danach werde ich den Auftrag selbstständig bearbeiten und die geforderten Aufgaben lösen. Zum Abschluss werde ich die Ergebnisse gemeinsam mit meinen Kameraden in der Gruppe besprechen und überprüfen. Dieser Schritt wird es uns ermöglichen, mögliche Verbesserungen zu identifizieren und direkt anzuwenden. Mein Ziel für heute ist es, die Aufgabe vollständig zu bearbeiten.Dann werde ich Mit den Moodletests des Moduls anfangen
+Heute werde ich mich mit der Präsentation zum Auftrag Steganografie beschäftigen. Zunächst werde ich die Inhalte sorgfältig durchlesen, um ein klares Verständnis der Aufgabenstellung zu bekommen. Danach werde ich den Auftrag selbstständig bearbeiten und die geforderten Aufgaben lösen. Zum Abschluss werde ich die Ergebnisse gemeinsam mit meinen Kameraden in der Gruppe besprechen und überprüfen. Dieser Schritt wird es uns ermöglichen, mögliche Verbesserungen zu identifizieren und direkt anzuwenden. Mein Ziel für heute ist es, die Aufgabe vollständig zu bearbeiten.Dann werde ich Mit den Moodletests des Moduls anfangen.
 
 - [x] Auftrag Steganografie
+- [x] Quiz logische_Operatoren
+- [x] Quiz Grafiken
+- [x] Quiz Fehlererkennung
